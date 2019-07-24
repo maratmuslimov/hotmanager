@@ -5,11 +5,13 @@ Hotman tidak harus selalu diaktifkan, karena hotman bukanlah radius server. Ini 
 
 Hotman merupakan aplikasi multi platform. Hal ini dikarenakan untuk mengoperasikannya, Anda hanya perlu menginstal Webserver PHP di Windows, Linux, MacOS bahkan Android sekalipun.
 
-Author: Erfandi Bagus
-Licence: GPLv2
-API: Net_RouterOS
-Website : https://erfandibagus.com
-Facebook : https://www.facebook.com/erfandibgs
-Facebook Page : https://www.facebook.com/erfandibagus
+<ul>
+ <li>Author: Erfandi Bagus</li>
+ <li>Licence: GPLv2</li>
+ <li>API: Net_RouterOS</li>
+ <li>Website : https://erfandibagus.com</li>
+ <li>Facebook : https://www.facebook.com/erfandibgs</li>
+ <li>Facebook Page : https://www.facebook.com/erfandibagus</li>
+</ul>
 
 Terimakasih
