@@ -1,5 +1,7 @@
 # HOTMAN
-MikroTik Hotspot Manager (Hotman) adalah aplikasi berbasis web. Dibangun menggunakan Framework CodeIgniter dan MikroTik RouterOS API Protocol untuk membantu manajemen Hotspot MikroTik menjadi lebih mudah. Terlebih untuk MikroTik yang tidak mendukung User Manager. 
+MikroTik Hotspot Manager (Hotman) adalah aplikasi manajemen hotpsot berbasis web. 
+
+Dibangun menggunakan Framework CodeIgniter dan MikroTik RouterOS API Protocol untuk membantu manajemen Hotspot MikroTik menjadi lebih mudah. Terlebih untuk MikroTik yang tidak mendukung User Manager. 
 
 Hotman tidak harus selalu diaktifkan, karena hotman bukanlah radius server. Ini artinya Anda dapat mengaktifkannya sesuai kebutuhan saja.
 
